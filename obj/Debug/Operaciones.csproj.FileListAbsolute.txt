@@ -1,0 +1,20 @@
+C:\Users\Zoraida Chaljub\Downloads\csh_operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Zoraida Chaljub\Downloads\csh_operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Zoraida Chaljub\Downloads\csh_operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Zoraida Chaljub\Downloads\csh_operaciones\Operaciones\obj\Debug\Operaciones.csprojAssemblyReference.cache
+C:\Users\Zoraida Chaljub\Downloads\csh_operaciones\Operaciones\obj\Debug\Operaciones.frmOperaciones.resources
+C:\Users\Zoraida Chaljub\Downloads\csh_operaciones\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\Zoraida Chaljub\Downloads\csh_operaciones\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.cache
+C:\Users\Zoraida Chaljub\Downloads\csh_operaciones\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Zoraida Chaljub\Downloads\csh_operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Zoraida Chaljub\Downloads\csh_operaciones\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Zoraida Chaljub\Desktop\clase jonatan\Programacion en C y Algoritmo\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Zoraida Chaljub\Desktop\clase jonatan\Programacion en C y Algoritmo\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Zoraida Chaljub\Desktop\clase jonatan\Programacion en C y Algoritmo\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Zoraida Chaljub\Desktop\clase jonatan\Programacion en C y Algoritmo\Operaciones\Operaciones\obj\Debug\Operaciones.csprojAssemblyReference.cache
+C:\Users\Zoraida Chaljub\Desktop\clase jonatan\Programacion en C y Algoritmo\Operaciones\Operaciones\obj\Debug\Operaciones.frmOperaciones.resources
+C:\Users\Zoraida Chaljub\Desktop\clase jonatan\Programacion en C y Algoritmo\Operaciones\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\Zoraida Chaljub\Desktop\clase jonatan\Programacion en C y Algoritmo\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.cache
+C:\Users\Zoraida Chaljub\Desktop\clase jonatan\Programacion en C y Algoritmo\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Zoraida Chaljub\Desktop\clase jonatan\Programacion en C y Algoritmo\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Zoraida Chaljub\Desktop\clase jonatan\Programacion en C y Algoritmo\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
